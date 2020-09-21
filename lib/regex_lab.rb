@@ -4,8 +4,8 @@ end
 
 def words_starting_with_un_and_ending_with_ing(text)
  if text.match(/\b[aeiouAEIOU]\w*/) == matchdata
-  end
   return true 
+  end
 end
 
 
